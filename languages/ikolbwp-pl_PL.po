@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IKOL Business 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ikol-business-wp\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-08-12T14:47:27+00:00\n"
+"PO-Revision-Date: 2023-09-05 12:53+0200\n"
+"Language: pl_PL\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Domain: ikolbwp\n"
+
+#. Plugin Name of the plugin
+#: admin/classes/class-ikolbwp-admin.php:25
+#: admin/classes/class-ikolbwp-admin.php:26
+msgid "IKOL Business"
+msgstr "IKOL Business"
+
+#. Author of the plugin
+msgid "IKOL"
+msgstr "IKOL"
+
+#: admin/index.php:30
+msgid "IKOL Business Settings"
+msgstr "Ustawienia IKOL Business"
+
+#: admin/index.php:39
+msgid "Your customer code"
+msgstr "Twój kod klienta"
+
+#: admin/index.php:48
+msgid "Don't have customer code yet? Sign up to IKOL Business app at"
+msgstr "Nie masz jeszcze kodu klienta? Zarejestruj się w aplikacji IKOL Business na"
+
+#: admin/index.php:55
+msgid "Enable chat"
+msgstr "Włącz czat"
+
+#: admin/index.php:65
+msgid "Check this field to show chat widget on your page"
+msgstr "Zaznacz to pole, by pokazywać widget na Twojej stronie"
+
+#: admin/index.php:82
+msgid "Embed contact form"
+msgstr "Wstaw formularz kontaktu"
+
+#: admin/index.php:86
+msgid "You can add IKOL contact form to your page using \"IKOL Contact Form\" block."
+msgstr "Aby dodać formularz kontaktu IKOL użyj bloku \"Formularz kontaktu IKOL\"."
+
+#: admin/index.php:76
+#: admin/index.php:88
+msgid "Place it in a right place and adjust settings if necessary."
+msgstr "Umieść blok w odpowiednim miejscu i dopasuj jego ustawienia."
+
+#: admin/index.php:94
+msgid "Configure"
+msgstr "Konfiguruj"
+
+#: admin/index.php:109
+msgid "Save Changes"
+msgstr "Zapisz zmiany"
+
+#: blocks/contact/js/ikolbwp_contact.js:11
+msgid "IKOL Contact Form"
+msgstr "Formularz kontaktu IKOL"
+
+#: blocks/contact/js/ikolbwp_contact.js:52
+msgid "Background settings"
+msgstr "Ustawienia tła"
+
+#: blocks/contact/js/ikolbwp_contact.js:59
+msgid "Background color"
+msgstr "Kolor tła"
+
+#: blocks/contact/js/ikolbwp_contact.js:70
+#: blocks/services/js/ikolbwp_services.js:71
+msgid "Acquisition source"
+msgstr "Źródło pozyskania"
+
+#: blocks/contact/js/ikolbwp_contact.js:74
+#: blocks/services/js/ikolbwp_services.js:75
+msgid "Tag"
+msgstr "Tag"
+
+#: blocks/contact/js/ikolbwp_contact.js:75
+msgid "You can define text tag to mark incoming leads from this IKOL contact form instance."
+msgstr "Tag źródła pozyskania umożliwia oznaczenie ofert IKOL które pochodzą z tego formularza kontaktowego."
+
+#: blocks/contact/js/ikolbwp_contact.js:93
+msgid "Your IKOL Contact form will be displayed here"
+msgstr "Twój formularz kontaktowy IKOL zostanie wyświetlony w tym miejscu"
+
+#. Plugin URI of the plugin
+msgid "https://ikol.com"
+msgstr "https://ikol.com"
+
+#. Author URI of the plugin
+msgid "https://ikol.com/company"
+msgstr "https://ikol.com/company"
+
+#: admin/index.php:70
+msgid "Embed service list"
+msgstr "Wstaw listę usług"
+
+#: admin/index.php:74
+msgid "You can add IKOL service list and reservation form to your page using \"IKOL Service List\" block."
+msgstr "Aby dodać listę usług IKOL użyj bloku \"Lista usług IKOL\"."
+
+#: admin/index.php:98
+msgid "You can customize your chat, services and contact widgets at"
+msgstr "Możesz zmienić ustawienia widgetu czatu, listy usług lub kontaktu na"
+
+#: blocks/services/js/ikolbwp_services.js:11
+msgid "IKOL Services List"
+msgstr "Lista usług IKOL"
+
+#: blocks/services/js/ikolbwp_services.js:51
+msgid "General"
+msgstr "Ogólne"
+
+#: blocks/services/js/ikolbwp_services.js:55
+msgid "Display mode"
+msgstr "Tryb wyświetlania"
+
+#: blocks/services/js/ikolbwp_services.js:56
+msgid "You can define which layout your service list will be displayed with."
+msgstr "Tryb wyświetlania pozwala zdecydować w jaki sposób będzie wyświetlana lista usług,"
+
+#: blocks/services/js/ikolbwp_services.js:60
+msgid "Tiles"
+msgstr "Kafelki"
+
+#: blocks/services/js/ikolbwp_services.js:61
+msgid "List"
+msgstr "Lista"
+
+#: blocks/services/js/ikolbwp_services.js:76
+msgid "You can define text tag to mark incoming leads or reservations from this IKOL service form."
+msgstr "Tag źródła pozyskania umożliwia oznaczenie ofert i rezerwacji IKOL które pochodzą z formularza usługi uruchamianego poprzez listę usług."
+
+#: blocks/services/js/ikolbwp_services.js:94
+msgid "Your IKOL Service list will be displayed here"
+msgstr "Twoja lista usług IKOL zostanie wyświetlona w tym miejscu"
+
+#: blocks/services/js/ikolbwp_services.js:59
+msgid "Default"
+msgstr "Domyślny"
+
+#. Description of the plugin
+#: admin/index.php:31
+msgid "WordPress plugin that allows embedding IKOL Business functionality into WordPress pages."
+msgstr "Plugin Wordpressa pozwalający na umieszczenie funkcji IKOL Business na stronach Wordpress."
+
+#: admin/index.php:75
+#: admin/index.php:87
+msgid "The block is available in the widget section of the WordPress editor."
+msgstr "Blok jest dostępny w sekcji widżetów w edytorze wordpress."
